@@ -1,1 +1,118 @@
-{}
+{
+    "filter": "Filter",
+    "preliminary_filter": {
+      "title": "Preliminary filter",
+      "distance_1km": "Distance to the center 1 km",
+      "distance_3km": "Distance to the center 3 km",
+      "guest_rating_9": "Guest rating 9+",
+      "hotels": "Hotels",
+      "five_stars": "5 stars",
+      "breakfast_included": "Breakfast is included"
+    },
+    "popular_filters": {
+      "title": "Popular filters",
+      "five_stars": "5 stars",
+      "four_stars": "4 stars",
+      "breakfast_included": "Breakfast is included",
+      "distance_3km": "Distance to the center 3 km",
+      "free_booking": "Free booking",
+      "guest_rating_8": "Guest rating 8+"
+    },
+    "amenities_accommodation": {
+      "title": "Amenities of the accommodation facility",
+      "transfer": "Transfer to/from the hotel",
+      "reception": "Round-the-clock reception",
+      "early_checkin": "Early check-in",
+      "late_checkin": "Late check-in",
+      "pets_allowed": "Pets are allowed",
+      "parking": "Parking",
+      "breakfast": "Breakfast included",
+      "restaurant": "Restaurant",
+      "swimming_pool": "Swimming pool",
+      "spa": "Spa center/sauna",
+      "gym": "Gym/fitness room",
+      "conference_rooms": "Conference rooms",
+      "smoking_area": "Smoking area",
+      "playground": "Children's playground",
+      "internet": "Internet",
+      "security": "Security",
+      "lift": "Lift",
+      "eco_responsibility": "Eco-responsibility"
+    },
+    "amenities_disabilities": {
+      "title": "Amenities for people with disabilities",
+      "entrance_steps": "Entrance without steps",
+      "entrance_width": "Entrance 81 cm wide",
+      "parking": "Parking",
+      "ramp": "Availability of a ramp",
+      "lift": "Lift",
+      "handrails": "Handrails"
+    },
+    "room_facilities": {
+      "title": "Room facilities",
+      "bath": "Bath",
+      "shower": "Shower",
+      "coffee_machine": "Coffee machine",
+      "kettle": "Kettle",
+      "fridge": "Fridge",
+      "kitchen": "Kitchen",
+      "air_conditioning": "Air Conditioning",
+      "iron": "Iron",
+      "internet": "Internet",
+      "workplace": "Workplace",
+      "underfloor_heating": "Underfloor heating",
+      "pets_allowed": "Pets allowed",
+      "baby_bed": "Baby bed",
+      "balcony": "Balcony"
+    },
+    "room_facilities_disabilities": {
+      "title": "Room facilities for people with disabilities",
+      "door_width": "Main door entrance width 81 cm",
+      "interior_door_width": "Interior door width 81 cm",
+      "no_steps": "Absence of steps",
+      "handrail_toilet": "Handrail near the toilet",
+      "handrail_shower": "Handrail in the shower",
+      "bath_chair": "Bath/shower chair",
+      "barrier_free_shower": "Barrier-free shower",
+      "low_washbasin": "Low washbasin",
+      "high_toilet": "High toilet bowl",
+      "braille": "Instructions in Braille",
+      "emergency_cord_bathroom": "Emergency cord in the bathroom",
+      "emergency_cord_bedside": "Emergency cord by the bedside"
+    },
+    "nutrition": {
+      "title": "Nutrition",
+      "room_no_meals": "Room without meals",
+      "breakfast": "Breakfast included",
+      "breakfast_dinner": "Breakfast and dinner",
+      "breakfast_lunch_dinner": "Breakfast, lunch, dinner",
+      "all_inclusive": "All inclusive",
+      "ultra_inclusive": "Ultra all inclusive"
+    },
+    "reservation_policy": {
+      "title": "Reservation cancellation policy",
+      "free_before_checkin": "Free cancellation before check-in",
+      "free_3_days": "Free cancellation up to 3 days before check-in",
+      "free_1_week": "Free cancellation one week before check-in",
+      "no_cancellation": "No possibility of cancellation"
+    },
+    "prepayment": {
+      "title": "Prepayment",
+      "no_credit_card": "Booking without a credit card",
+      "no_prepayment": "Booking without prepayment",
+      "partial_prepayment": "Partial prepayment",
+      "full_prepayment": "Full prepayment"
+    },
+    "payment_form": {
+      "title": "Form of payment",
+      "cash": "Payment in cash",
+      "card": "Payment by card"
+    },
+    "special_offers": {
+      "title": "Special offers and discounts",
+      "discount_50": "Discounts of 50%",
+      "hot_offers": "Hot offers",
+      "cheap_options": "Cheap options for relocation"
+    }
+}
+  
