@@ -20,8 +20,9 @@ const baseStyle = definePartsStyle({
 	},
 
 	closeButton: {
-		top: '1.1875rem',
-		right: '1.4375rem'
+		top: '50%',
+		right: '1.5rem',
+		transform: 'translate(50%, -50%)'
 	},
 
 	header: {
